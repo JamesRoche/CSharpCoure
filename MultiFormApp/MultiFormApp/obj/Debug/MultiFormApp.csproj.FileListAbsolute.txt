@@ -1,0 +1,11 @@
+C:\Users\James\source\repos\MultiFormApp\MultiFormApp\bin\Debug\MultiFormApp.exe.config
+C:\Users\James\source\repos\MultiFormApp\MultiFormApp\bin\Debug\MultiFormApp.exe
+C:\Users\James\source\repos\MultiFormApp\MultiFormApp\bin\Debug\MultiFormApp.pdb
+C:\Users\James\source\repos\MultiFormApp\MultiFormApp\obj\Debug\MultiFormApp.csprojAssemblyReference.cache
+C:\Users\James\source\repos\MultiFormApp\MultiFormApp\obj\Debug\MultiFormApp.Form1.resources
+C:\Users\James\source\repos\MultiFormApp\MultiFormApp\obj\Debug\MultiFormApp.Properties.Resources.resources
+C:\Users\James\source\repos\MultiFormApp\MultiFormApp\obj\Debug\MultiFormApp.Secondwindow.resources
+C:\Users\James\source\repos\MultiFormApp\MultiFormApp\obj\Debug\MultiFormApp.csproj.GenerateResource.cache
+C:\Users\James\source\repos\MultiFormApp\MultiFormApp\obj\Debug\MultiFormApp.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\MultiFormApp\MultiFormApp\obj\Debug\MultiFormApp.exe
+C:\Users\James\source\repos\MultiFormApp\MultiFormApp\obj\Debug\MultiFormApp.pdb

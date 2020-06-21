@@ -1,0 +1,10 @@
+C:\Users\James\source\repos\NotepadClone\NotepadClone\bin\Debug\NotepadClone.exe.config
+C:\Users\James\source\repos\NotepadClone\NotepadClone\bin\Debug\NotepadClone.exe
+C:\Users\James\source\repos\NotepadClone\NotepadClone\bin\Debug\NotepadClone.pdb
+C:\Users\James\source\repos\NotepadClone\NotepadClone\obj\Debug\NotepadClone.csprojAssemblyReference.cache
+C:\Users\James\source\repos\NotepadClone\NotepadClone\obj\Debug\NotepadClone.Form1.resources
+C:\Users\James\source\repos\NotepadClone\NotepadClone\obj\Debug\NotepadClone.Properties.Resources.resources
+C:\Users\James\source\repos\NotepadClone\NotepadClone\obj\Debug\NotepadClone.csproj.GenerateResource.cache
+C:\Users\James\source\repos\NotepadClone\NotepadClone\obj\Debug\NotepadClone.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\NotepadClone\NotepadClone\obj\Debug\NotepadClone.exe
+C:\Users\James\source\repos\NotepadClone\NotepadClone\obj\Debug\NotepadClone.pdb

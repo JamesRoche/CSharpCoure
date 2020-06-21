@@ -1,0 +1,7 @@
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.Console\bin\Debug\MultipleProjectTest.Console.exe.config
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.Console\bin\Debug\MultipleProjectTest.Console.exe
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.Console\bin\Debug\MultipleProjectTest.Console.pdb
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.Console\obj\Debug\MultipleProjectTest.Console.csprojAssemblyReference.cache
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.Console\obj\Debug\MultipleProjectTest.Console.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.Console\obj\Debug\MultipleProjectTest.Console.exe
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.Console\obj\Debug\MultipleProjectTest.Console.pdb

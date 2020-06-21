@@ -1,0 +1,9 @@
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.WindowsForm\bin\Debug\MultipleProjectTest.WindowsForm.exe.config
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.WindowsForm\bin\Debug\MultipleProjectTest.WindowsForm.exe
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.WindowsForm\bin\Debug\MultipleProjectTest.WindowsForm.pdb
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.WindowsForm\obj\Debug\MultipleProjectTest.WindowsForm.csprojAssemblyReference.cache
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.WindowsForm\obj\Debug\MultipleProjectTest.WindowsForm.Properties.Resources.resources
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.WindowsForm\obj\Debug\MultipleProjectTest.WindowsForm.csproj.GenerateResource.cache
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.WindowsForm\obj\Debug\MultipleProjectTest.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.WindowsForm\obj\Debug\MultipleProjectTest.WindowsForm.exe
+C:\Users\James\source\repos\MultipleProjectTest\MultipleProjectTest.WindowsForm\obj\Debug\MultipleProjectTest.WindowsForm.pdb
