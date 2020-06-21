@@ -1,0 +1,10 @@
+C:\Users\James\source\repos\MenuBars\MenuBars\bin\Debug\MenuBars.exe.config
+C:\Users\James\source\repos\MenuBars\MenuBars\bin\Debug\MenuBars.exe
+C:\Users\James\source\repos\MenuBars\MenuBars\bin\Debug\MenuBars.pdb
+C:\Users\James\source\repos\MenuBars\MenuBars\obj\Debug\MenuBars.csprojAssemblyReference.cache
+C:\Users\James\source\repos\MenuBars\MenuBars\obj\Debug\MenuBars.Form1.resources
+C:\Users\James\source\repos\MenuBars\MenuBars\obj\Debug\MenuBars.Properties.Resources.resources
+C:\Users\James\source\repos\MenuBars\MenuBars\obj\Debug\MenuBars.csproj.GenerateResource.cache
+C:\Users\James\source\repos\MenuBars\MenuBars\obj\Debug\MenuBars.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\MenuBars\MenuBars\obj\Debug\MenuBars.exe
+C:\Users\James\source\repos\MenuBars\MenuBars\obj\Debug\MenuBars.pdb
